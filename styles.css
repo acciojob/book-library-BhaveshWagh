@@ -8,7 +8,8 @@ body{
 	text-align:center;
 }
 .book-library{
-	background-color:#ffffff;
+	background-color:#f8f8f8;
+	
 }
 .book{
 	
@@ -24,8 +25,8 @@ body{
 .btn{
 	width:100%;
 	padding:10px;
-	color:#2ecc71;
-	background-color:green;
+	color:#rgb(255, 255, 255);
+	background-color:rgb(46, 204, 113);
 	border:none;
 	border-radius:5px;
 	margin-bottom:20px;
