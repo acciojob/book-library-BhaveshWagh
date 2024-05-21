@@ -15,7 +15,7 @@ body{
 	
 }
 .author{
-	color:#777777;
+	color:rgb(119, 119, 119);
 	text-align:left;
 }
 .title{
@@ -25,7 +25,7 @@ body{
 .btn{
 	width:100%;
 	padding:10px;
-	color:#rgb(255, 255, 255);
+	color:rgb(255, 255, 255);
 	background-color:rgb(46, 204, 113);
 	border:none;
 	border-radius:5px;
